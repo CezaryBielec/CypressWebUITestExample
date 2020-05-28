@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://google.com",
+    "supportFile": "cypress/support/index.ts"
+}
